@@ -1,0 +1,6 @@
+{
+  "uuid": "<id>",
+  "left": "<randint>",
+  "top": "<randint>",
+  "type": "rect"
+}
